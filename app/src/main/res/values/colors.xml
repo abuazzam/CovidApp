@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#448AFF</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorTextPositif">#EB5757</color>
+    <color name="colorTextSecondary">#B6B3B3</color>
+    <color name="colorTextSembuh">#27AE60</color>
+    <color name="colorTextMeninggal">#A90D0D</color>
+    <color name="colorTextPrimary">#878890</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorAppBar">#2D9CDB</color>
+</resources>
